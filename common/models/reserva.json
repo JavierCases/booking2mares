@@ -1,0 +1,32 @@
+{
+  "name": "Reserva",
+  "plural": "Reservas",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "pension": {
+      "type": "string"
+    },
+    "desde": {
+      "type": "date",
+      "required": true
+    },
+    "hasta": {
+      "type": "date",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {
+    "habitacion": {
+      "type": "belongsTo",
+      "model": "Habitacion",
+      "foreignKey": ""
+    }
+  },
+  "acls": [],
+  "methods": {}
+}

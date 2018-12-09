@@ -1,0 +1,667 @@
+Hotel:
+  hotel1:
+    nombre: AC HOTEL MURCIA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 274 250
+  hotel2:
+    nombre: AGALIA HOTEL
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 397 000 / 608 018 466
+  hotel3:
+    nombre: ÁGUILAS HOTEL RESORT
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 493 015
+  hotel4:
+    nombre: AL SUR
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 419 466 hotel: 608 178 976
+  hotel5:
+    nombre: ALAMEDA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 406 600
+  hotel6:
+    nombre: ALASKA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 181 017
+  hotel7:
+    nombre: ALBOHERA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 335 910
+  hotel8:
+    nombre: ALBORÁN
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 155 759
+  hotel9:
+    nombre: ALCÁZAR
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 662 105
+  hotel10:
+    nombre: ALEGRÍA DOS PLAYAS
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 937 698 684
+  hotel11:
+    nombre: ALFONSO XIII
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 520 000
+  hotel12:
+    nombre: AMTADES
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 597 044
+  hotel13:
+    nombre: ARCE
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 182 247/ 694 492 358
+  hotel14:
+    nombre: ARCO DE SAN JUAN
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 210 455
+  hotel15:
+    nombre: ARGOS
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 720 707
+  hotel16:
+    nombre: ATRIUM HOTEL
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 158 383
+  hotel17:
+    nombre: AVENIDA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 751 215
+  hotel18:
+    nombre: AZARBE
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 272 829
+  hotel19:
+    nombre: BAHÍA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 594 000
+  hotel20:
+    nombre: BALNEARIO
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 902 444 410
+  hotel21:
+    nombre: B&B HOTEL CARTAGENA CARTAGONOVA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 504 200
+  hotel22:
+    nombre: CAMPANILE MURCIA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 899 781
+  hotel23:
+    nombre: CAMPOMAR
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 135 642
+  hotel24:
+    nombre: CARLOS III
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 411 650
+  hotel25:
+    nombre: CARLOS III
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 520 032
+  hotel26:
+    nombre: CARTAGENERA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 502 504
+  hotel27:
+    nombre: CASA EMILIO
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 220 631
+  hotel28:
+    nombre: CASA LUZÓN
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 435 489
+  hotel29:
+    nombre: CATALONIA CONDE DE FLORIDABLANCA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 214 626
+  hotel30:
+    nombre: CAVANNA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 563 600
+  hotel31:
+    nombre: CENTRAL
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 707 055
+  hotel32:
+    nombre: CETINA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 100 800
+  hotel33:
+    nombre: CHURRA VISTALEGRE
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 201 750
+  hotel34:
+    nombre: CORZO
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 575 131
+  hotel35:
+    nombre: COSTA II
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 590 450
+  hotel36:
+    nombre: COSTA NAREJOS
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 583 980
+  hotel37:
+    nombre: COSTAS
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 685 510
+  hotel38:
+    nombre: CRISTINA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 171 110
+  hotel39:
+    nombre: DANIYA LA MANGA SPA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 140 111
+  hotel40:
+    nombre: DOBLEMAR
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 563 833
+  hotel41:
+    nombre: EL CHURRA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 238 400
+  hotel42:
+    nombre: EL LLANO
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 735 853
+  hotel43:
+    nombre: EL MARINO
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 572 121
+  hotel44:
+    nombre: EL PARAISO
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 419 444
+  hotel45:
+    nombre: EL PASO
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 447 125
+  hotel46:
+    nombre: EL ZORRO
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 433 140 hotel: 669 015 916
+  hotel47:
+    nombre: ENTREMARES
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 563100
+  hotel48:
+    nombre: ENTRESIERRAS
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 657 676
+  hotel49:
+    nombre: ESPAÑA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 902 444 410
+  hotel50:
+    nombre: EXECUTIVE SPORT
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 418 209
+  hotel51:
+    nombre: FÉLIX
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 467 654
+  hotel52:
+    nombre: GUILLERMO II
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 590 436 606 740 304
+  hotel53:
+    nombre: HACIENDA REAL LOS OLIVOS
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968959100
+  hotel54:
+    nombre: HESPERIA MURCIA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 217 789
+  hotel55:
+    nombre: HOSPEDERIA LA MARIPOSA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 631 008
+  hotel56:
+    nombre: HOSPEDERÍA MOLINO DE ABAJO
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 431 383 hotel: 639 959 509
+  hotel57:
+    nombre: HOSPEDERÍA RURAL CASAS NUEVAS
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 431 820 hotel: 610 031 082 hotel: 654 834 363
+  hotel58:
+    nombre: HOSPEDERÍA RURAL EL MOLINO DE FELIPE
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 662 013
+  hotel59:
+    nombre: HOSPEDERÍA RURAL EL MOLINO DEL RÍO ARGOS
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 433 381 / 606 301 409
+  hotel60:
+    nombre: HOSTERÍA CONDE DE LA VALLESA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 778306
+  hotel61:
+    nombre: HOSTERÍA LA MERCED
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 433 587
+  hotel62:
+    nombre: Hotel Azarbe
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: +34 968 272 829
+  hotel63:
+    nombre: Hotel Palacio de Tudemir
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 966 738 010
+  hotel64:
+    nombre: Hotel Primavera
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 868 081 599 / 687 705 674
+  hotel65:
+    nombre: HYLTOR
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968688205
+  hotel66:
+    nombre: IBIS MURCIA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 274 939
+  hotel67:
+    nombre: INTERCONTINENTAL MAR MENOR GOLF RESORT & SPA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 902 500 322
+  hotel68:
+    nombre: JARDINES DE AMALTEA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 406 565
+  hotel69:
+    nombre: JARDINES DE LA SANTA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 487054 / 639 614 494
+  hotel70:
+    nombre: JARDINES DE LORCA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 470 599
+  hotel71:
+    nombre: JULIÁN
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 636 133
+  hotel72:
+    nombre: LA CUMBRE
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 594 861
+  hotel73:
+    nombre: LA FUENTE
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 685 125
+  hotel74:
+    nombre: LA GALERICA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 332 226
+  hotel75:
+    nombre: LA HUERTANICA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 217 668
+  hotel76:
+    nombre: LA MESEGUERA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 840 043
+  hotel77:
+    nombre: LA MURALLA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 723 528
+  hotel78:
+    nombre: LA PARRA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 670 444
+  hotel79:
+    nombre: LA PAZ
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 751 350
+  hotel80:
+    nombre: LA PAZ
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 801 337
+  hotel81:
+    nombre: LA PINADA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 807 182
+  hotel82:
+    nombre: LA POSADA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 554 015
+  hotel83:
+    nombre: LA TORRE GOLF RESORT SPA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 031 973
+  hotel84:
+    nombre: LA TORRETA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 420 080 hotel: 676 975 187
+  hotel85:
+    nombre: LAS GAVIOTAS
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 337 289
+  hotel86:
+    nombre: LAS LOMAS VILLAGE & SPA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 338 100
+  hotel87:
+    nombre: L'AZOHÍA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 150 228
+  hotel88:
+    nombre: LEGAZPI
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 293 081
+  hotel89:
+    nombre: LEÓN
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 902 333 222 hotel: 968 688 022
+  hotel90:
+    nombre: LEVANTE
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 902 333 222 hotel: 968 688 022
+  hotel91:
+    nombre: LIDO
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 570 704
+  hotel92:
+    nombre: LODOMAR SPA & TALASOTERAPIA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 186 802
+  hotel93:
+    nombre: LOS BARTOLOS
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 631 671
+  hotel94:
+    nombre: LOS DELFINES
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 145 300
+  hotel95:
+    nombre: LOS HABANEROS
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 505 250
+  hotel96:
+    nombre: LOS MOLINOS
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 178 010
+  hotel97:
+    nombre: LOS NAREJOS
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 575 634
+  hotel98:
+    nombre: LOS PERIQUITOS
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 685 240
+  hotel99:
+    nombre: LOS PERIQUITOS SPA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 685 240
+  hotel100:
+    nombre: LOS ROMEROS
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 387 420
+  hotel101:
+    nombre: MADRID
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968335898
+  hotel102:
+    nombre: MALENA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 725 262
+  hotel103:
+    nombre: MANOLO
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 330 060
+  hotel104:
+    nombre: MAR MEDITERRÁNEO
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 571 901
+  hotel105:
+    nombre: MAR MENOR
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 571 901
+  hotel106:
+    nombre: MAYARÍ
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 419 748 hotel: 620 629 508
+  hotel107:
+    nombre: MERCURE THALASIA COSTA DE MURCIA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968182007
+  hotel108:
+    nombre: MESÓN DEL MORO
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 770 225
+  hotel109:
+    nombre: MONREAL
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 781 816
+  hotel110:
+    nombre: MONTEAGUDO
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 242 766
+  hotel111:
+    nombre: NELVA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 060 200
+  hotel112:
+    nombre: NEPTUNO
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 181 911
+  hotel113:
+    nombre: NH AMISTAD MURCIA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 282 929
+  hotel114:
+    nombre: NH CAMPO CARTAGENA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 504 431
+  hotel115:
+    nombre: NH CARTAGENA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 120 908
+  hotel116:
+    nombre: NH RINCÓN DE PEPE
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 212 239
+  hotel117:
+    nombre: NIÁGARA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 850 072
+  hotel118:
+    nombre: NOVOTEL MURCIA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 374 799
+  hotel119:
+    nombre: OCCIDENTAL MURCIA SIETE CORONAS
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 217 771
+  hotel120:
+    nombre: OLIMPIA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 418 359
+  hotel121:
+    nombre: PACOCHE MURCIA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 213 385
+  hotel122:
+    nombre: PAGÁN
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 575 080
+  hotel123:
+    nombre: PALOMA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 183 171
+  hotel124:
+    nombre: Parador Castillo de Lorca
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 406 047
+  hotel125:
+    nombre: PARADOR DE PUERTO LUMBRERAS
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 402 025
+  hotel126:
+    nombre: PENINSULAR
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 500 033
+  hotel127:
+    nombre: PINITO DE ORO
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 484 436
+  hotel128:
+    nombre: PÍO XII
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 780 132
+  hotel129:
+    nombre: PLAYA GRANDE
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 155 715
+  hotel130:
+    nombre: PLAYASOL
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 156 503
+  hotel131:
+    nombre: PLAZA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 936 075
+  hotel132:
+    nombre: PORTMÁN
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 928 111 hotel: 607 806 040
+  hotel133:
+    nombre: POSADAS DE ESPAÑA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 324 324
+  hotel134:
+    nombre: POSEIDÓN LA MANGA HOTEL & SPA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 337 000
+  hotel135:
+    nombre: PRÍNCIPE FELIPE
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 331 234
+  hotel136:
+    nombre: PUERTO JUAN MONTIEL
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 493 493
+  hotel137:
+    nombre: RAMÓN
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 590 244
+  hotel138:
+    nombre: RIBERA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 570 200
+  hotel139:
+    nombre: RISCAL
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 402 050
+  hotel140:
+    nombre: SAN REMO
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 616293246
+  hotel141:
+    nombre: SANTA CRUZ
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 680 717
+  hotel142:
+    nombre: SANTOS
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 865 211
+  hotel143:
+    nombre: SENATOR MAR MENOR GOLF & SPA RESORT
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968583060
+  hotel144:
+    nombre: SENSOL
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 199 937
+  hotel145:
+    nombre: SERCOTEL JC1 MURCIA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968858844
+  hotel146:
+    nombre: SERVIGROUP GALÚA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 563 200
+  hotel147:
+    nombre: SG BULLAS
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 657 220
+  hotel148:
+    nombre: SIERRA MAR
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 560 825
+  hotel149:
+    nombre: SOL Y MAR
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 134 366
+  hotel150:
+    nombre: SPA AIRBEACH MAR MENOR
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 699117498
+  hotel151:
+    nombre: TCH HOTEL
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 676 091
+  hotel152:
+    nombre: TERMAS
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 902 333 222 hotel: 968 688 022
+  hotel153:
+    nombre: TORREÓN LAS FUENTES
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 722 114 hotel: 695 385 615
+  hotel154:
+    nombre: TOTANA SUR
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 421 037
+  hotel155:
+    nombre: TRABUCO
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 570 051 hotel: 616 760 532
+  hotel156:
+    nombre: TRAIÑA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 335 022 / 629 008 077
+  hotel157:
+    nombre: UNIVERSAL PACOCHE
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 217 605
+  hotel158:
+    nombre: VENTA BAÑOS
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 868 175 444
+  hotel159:
+    nombre: VENTA EL CAMPO
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 151 414/ 609447104
+  hotel160:
+    nombre: VENTA EL PUERTO
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 383 061
+  hotel161:
+    nombre: VICTORIA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 902 444 410
+  hotel162:
+    nombre: VILLA DE CEUTÍ
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 693 399
+  hotel163:
+    nombre: VILLASEGURA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 610 019 hotel: 968 641 957
+  hotel164:
+    nombre: ZÉNIT MURCIA
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 214 742
+  hotel165:
+    nombre: 525
+    estrellas: "(function() { return (Math.floor(Math.random()*4)+2); })()"
+    telefono: 968 574 760
+Habitacion:
+  habitacion{1..100}:
+    hotelId: @hotel.*
+    numero: "(function() { return (Math.floor(Math.random()*300)+101); })()"
+    categoria: "(function() { return ['Individual', 'Doble', 'Suite'][(Math.floor(Math.random()*3))]; })()"
+    precio: "(function() { return (Math.floor(Math.random()*100)+50); })()"

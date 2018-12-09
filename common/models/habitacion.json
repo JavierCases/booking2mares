@@ -1,0 +1,36 @@
+{
+  "name": "Habitacion",
+  "plural": "Habitaciones",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "numero": {
+      "type": "number",
+      "required": true
+    },
+    "categoria": {
+      "type": "string"
+    },
+    "precio": {
+      "type": "number"
+    }
+  },
+  "validations": [],
+  "relations": {
+    "hotel": {
+      "type": "belongsTo",
+      "model": "Hotel",
+      "foreignKey": ""
+    },
+    "reservas": {
+      "type": "hasMany",
+      "model": "Reserva",
+      "foreignKey": ""
+    }
+  },
+  "acls": [],
+  "methods": {}
+}
