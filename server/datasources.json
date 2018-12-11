@@ -10,7 +10,7 @@
     "database": "booking2mares",
     "password": "alumno",
     "name": "mysqlDS",
-    "user": "alumno",
+    "user": "root",
     "connector": "mysql"
   }
 }
