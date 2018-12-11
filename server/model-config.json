@@ -50,5 +50,9 @@
   "Usuario": {
     "dataSource": "mysqlDS",
     "public": true
+  },
+  "Comentario": {
+    "dataSource": "mysqlDS",
+    "public": true
   }
 }

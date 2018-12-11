@@ -1,0 +1,32 @@
+{
+  "name": "Comentario",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "comentario": {
+      "type": "string"
+    },
+    "valoracion": {
+      "type": "number",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {
+    "usuario": {
+      "type": "belongsTo",
+      "model": "Usuario",
+      "foreignKey": ""
+    },
+    "hotel": {
+      "type": "belongsTo",
+      "model": "Hotel",
+      "foreignKey": ""
+    }
+  },
+  "acls": [],
+  "methods": {}
+}

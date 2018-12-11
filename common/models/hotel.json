@@ -30,6 +30,11 @@
       "type": "hasMany",
       "model": "Habitacion",
       "foreignKey": ""
+    },
+    "comentarios": {
+      "type": "hasMany",
+      "model": "Comentario",
+      "foreignKey": ""
     }
   },
   "acls": [],

@@ -50,7 +50,40 @@
       "principalType": "ROLE",
       "principalId": "$owner",
       "permission": "ALLOW"
+    },
+    {
+      "accessType": "EXECUTE",
+      "principalType": "ROLE",
+      "principalId": "$everyone",
+      "permission": "DENY",
+      "property": "hoy"
+    },
+    {
+      "accessType": "EXECUTE",
+      "principalType": "ROLE",
+      "principalId": "$authenticated",
+      "permission": "ALLOW",
+      "property": "hoy"
     }
   ],
-  "methods": {}
+  "methods": {
+    "hoy": {
+      "accepts": [],
+      "returns": [
+        {
+          "arg": "ocupadas",
+          "type": "array",
+          "root": false,
+          "description": ""
+        }
+      ],
+      "description": "muestra habitaciones ocupadas en el dia de hoy en el que se hace la  peticion",
+      "http": [
+        {
+          "path": "/hoy",
+          "verb": "get"
+        }
+      ]
+    }
+  }
 }

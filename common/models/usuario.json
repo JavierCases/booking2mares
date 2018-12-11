@@ -20,6 +20,11 @@
       "type": "hasMany",
       "model": "Reserva",
       "foreignKey": ""
+    },
+    "comentarios": {
+      "type": "hasMany",
+      "model": "Comentario",
+      "foreignKey": ""
     }
   },
   "acls": [],
